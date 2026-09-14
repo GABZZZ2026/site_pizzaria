@@ -4,7 +4,6 @@
     padding:30;
     box-sizing:border-box;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-
 }
 
 body{
@@ -12,7 +11,12 @@ body{
     background:#811414;
     color:#e0c112;
     text-align: center;
-    font-family:
+    font-family:'Courier New', Courier, monospace;
+    background-image: url(yaq/fundo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 img{
